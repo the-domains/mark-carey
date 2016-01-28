@@ -1,0 +1,28 @@
+name: Mark Carey
+favicon: null
+layout_spectrum: 0.2866361425258219
+typography_spectrum: 0.5055926314089447
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.6294415511656553
+  lightness: 0.903704258846119
+  saturation: 0.5181640745140612
+  rhythmicContrast: 0.5523651004768908
+purpose: []
